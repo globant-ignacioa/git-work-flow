@@ -5,3 +5,5 @@ start notepad++ <filename>
 alias np='start notepad++'
 np <filename>
 
+#this is a line of seudo code
+
